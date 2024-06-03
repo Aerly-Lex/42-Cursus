@@ -2,13 +2,13 @@
 
 |Projects   | Description  |
 |---|---|
-|[Libft](https://github.com/Aerly-Lex/libft/tree/main)   | Compilation of functions and utilities  |
-|[ft_printf](https://github.com/Aerly-Lex/ft_printf/tree/main)   | Partial reproduction of the original printf  |
-|[Get_next_Line](https://github.com/Aerly-Lex/get_next_line/tree/main)    | Modified version of the function readline reading till newline |
-|[Push_Swap](https://github.com/Aerly-Lex/push_swap/tree/main)   | Sorting Project with 2 Stacks using the K-Sort Algorithm |
-|[Fractol](https://github.com/Aerly-Lex/fractol/tree/main)   | Graphical Project to create Fractals with MLX42-Library |
-|[Pipex](https://github.com/Aerly-Lex/pipex/tree/main)   | Program that uses pipes in order to run Shell commands |
+|[Libft](https://github.com/Aerly-Lex/libft/tree/main)   | Personal library of reusable functions and utilities  |
+|[ft_printf](https://github.com/Aerly-Lex/ft_printf/tree/main)   | Custom implementation of the printf function  |
+|[Get_next_Line](https://github.com/Aerly-Lex/get_next_line/tree/main)    | Function for reading a line from a file descriptor until newline |
+|[Push_Swap](https://github.com/Aerly-Lex/push_swap/tree/main)   | Integer sorting project with 2 Stacks using the K-Sort Algorithm |
+|[Fractol](https://github.com/Aerly-Lex/fractol/tree/main)   | Graphical project for visualizing fractals with the MLX42 library |
+|[Pipex](https://github.com/Aerly-Lex/pipex/tree/main)   | Program processing shell commands through a pipeline |
 |[Philisopers](https://github.com/Aerly-Lex/philosophers/tree/main) | The Dining Problem using threads and mutexes |
 |[Minishell] | Creating the very own Mini Bash Shell |
-|[Cub3d] | Under Construction |
+|[Cub3d](https://github.com/Aerly-Lex/cub3d/tree/main) | Collaborative 3D maze game project using raycasting |
 |[CP-Modules] | Under Construction |
