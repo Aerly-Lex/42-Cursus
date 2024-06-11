@@ -11,4 +11,4 @@
 |[Philisopers](https://github.com/Aerly-Lex/philosophers/tree/main) | The Dining Problem using threads and mutexes |
 |[Minishell] | Creating the very own Mini Bash Shell |
 |[Cub3d](https://github.com/Aerly-Lex/cub3d/tree/main) | Collaborative 3D maze game project using raycasting |
-|[CP-Modules] | Under Construction |
+|[CP-Modules](https://github.com/Aerly-Lex/CPP-Modules/tree/main) | Series of projects designed to deepen understanding of C++ programming concepts and practices |
