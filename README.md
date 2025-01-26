@@ -12,3 +12,5 @@
 |[Minishell] | Creating the very own Mini Bash Shell |
 |[Cub3d](https://github.com/Aerly-Lex/cub3d/tree/main) | Collaborative 3D maze game project using raycasting |
 |[CP-Modules](https://github.com/Aerly-Lex/CPP-Modules/tree/main) | Series of projects designed to deepen understanding of C++ programming concepts and practices |
+|[Inception](https://github.com/Aerly-Lex/Inception/tree/main) | Docker-based virtualization project to set up a multi-service infrastructure using containers |
+|[Websurf] under construction | Implementation of a simple HTTP server capable of serving static files and processing basic requests |
