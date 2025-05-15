@@ -14,3 +14,4 @@
 |[CPP-Modules](https://github.com/Aerly-Lex/CPP-Modules/tree/main) | Series of projects designed to deepen understanding of C++ programming concepts and practices |
 |[Inception](https://github.com/Aerly-Lex/Inception/tree/main) | Docker-based virtualization project to set up a multi-service infrastructure using containers |
 |[ft_irc](https://github.com/Aerly-Lex/ft_irc) | Implementation of a basic IRC server, handling communication between multiple clients with support for channels, private messages, and commands |
+|[ft_transcendence] <br><sub>In development</sub> | Final project: Full-stack web app with Node.js & SQLite |
